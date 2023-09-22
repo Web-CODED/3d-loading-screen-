@@ -1,4 +1,4 @@
-# 3d-loading-screen-
+# 3d-loading-screen- Three.js
 Three.js empowered loading screen, with 3D model. Impressive and compact React-three-fiber project.
 Developed using vue.js and Framework is made using Node.js v18
 
